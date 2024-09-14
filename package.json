@@ -1,0 +1,15 @@
+{
+  "name": "taccs",
+  "version": "1.0.0",
+  "description": "The Accounting Software (TACCS)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coding-z",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.0"
+  }
+}
